@@ -1,3 +1,12 @@
 .ipynb_checkpoints
 .DS_Store
 .idea
+venv/
+ADMISSIONS.csv
+NOTEEVENTS.csv
+result_early/
+pickle/
+data/
+ClinicalBERT Model/
+model/
+__pycache__/
